@@ -1,2 +1,3 @@
 Resolved merge conflict.
 Resolved merge conflict for both branches.
+git switch bugFix

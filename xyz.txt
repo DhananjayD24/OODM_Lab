@@ -1,1 +1,1 @@
-Edited in bugFix branch.
+Resolved merge conflict of both branches.

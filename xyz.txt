@@ -1,1 +1,1 @@
-Resolved merge conflict of both branches.
+Resolved merge conflict for both branches.
